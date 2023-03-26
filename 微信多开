@@ -1,0 +1,7 @@
+ @echo off
+
+start "" "微信存档位置"
+
+start "" "微信存档位置"
+
+exit
